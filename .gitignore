@@ -1,5 +1,4 @@
-*
-
+/*
 !readme.md
 !.gitignore
 
@@ -10,3 +9,5 @@
 #/desktop/sources/links/main
 #/desktop/sources/scripts/core/orca
 !desktop
+desktop/*
+!desktop/sources
