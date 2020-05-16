@@ -1,0 +1,12 @@
+*
+
+!readme.md
+!.gitignore
+
+#/desktop/sources/scripts/core/library
+#/desktop/sources/scripts/commander
+#/desktop/sources/scripts/client
+#/desktop/sources/index
+#/desktop/sources/links/main
+#/desktop/sources/scripts/core/orca
+!desktop
